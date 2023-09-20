@@ -1,0 +1,128 @@
+.root {
+    background-color:#C42635;
+    margin: 0;
+}
+header
+{
+    min-width: 100%;
+    background-color: #252525;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
+ol
+{
+    color:#C9C9C9;
+}
+label
+{
+    color:#C9C9C9;
+}
+header h1
+{
+    color: #C9C9C9;
+    text-align: center;
+}
+
+
+.nav2
+{
+    color: #C9C9C9;
+}
+
+p{
+    color:#C9C9C9
+}
+
+a
+{
+    color:#C9C9C9
+}
+
+nav
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-width: 960px;}
+
+.nav1
+{
+    display: inline-block;
+    margin: 10px;
+}
+
+footer
+{
+    background-color: #252525;
+    margin: 0;
+    min-width: 100%;
+    position: relative;
+    top: 40px;
+
+    display: flex;
+
+
+    flex-direction: column;
+}
+
+#podval {
+    color: transparent;
+    background-color: transparent;
+    border: none;
+}
+
+.logo
+{
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+
+
+main
+{
+    background-color: #252525;
+    max-width: 960px;
+    margin: 0 auto;
+    align-items: center;
+}
+
+input, select, textarea
+{
+    color: #C9C9C9;
+    background-color: #252525;
+}
+
+textarea:focus, input:focus
+{
+    color:white; background-color: #C42635;
+}
+table
+{
+    color:#C9C9C9
+}
+.stroka
+{
+    background-color: #C42635
+
+}
+table
+{
+    border: 1px solid #C9C9C9;
+}
+caption
+{
+    border: 2px double #C9C9C9;
+}
+
+th {
+    border: 1px solid #C9C9C9;
+}
+
+td {
+    border: 1px solid #C9C9C9;
+}
+li{
+    color: #C9C9C9
+}
